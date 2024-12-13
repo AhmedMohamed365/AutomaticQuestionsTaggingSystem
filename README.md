@@ -11,6 +11,14 @@ we use the questions and the tags data.A text classification model that analyzes
 
 The system is taking the most possible tag , but we can make it take the most 3 possible tags  to give the question multi label 
 
+## Analysis : 
+![alt text](image.png)
+
+As seen in figure 
+
+These are the most tags in data and it looks unbalanced.
+
+
 ## Processing : 
 - We removed stop words based on analysis of most occurnces words as c# is not stop word in this context.
 - Applied stemming and lemmitization.
