@@ -1,9 +1,8 @@
 # Automatic-Questions-Tagging-System
-Automatic Questions Tagging System
-# This project is to tag a question on stackoverflow  automatically given the question  and the answers of it
-## we will use the dataset "StackSample:10% of Stack Overflow Q&A" 
+This project is to tag a question on stackoverflow  automatically given the question  and the answers of it
+#### We will use the dataset "StackSample:10% of Stack Overflow Q&A" 
 
-LINK : 
+Link of dataset : 
 
 [Dataset](https://www.kaggle.com/datasets/stackoverflow/stacksample)
 
